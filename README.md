@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wisdom Nwachukwu Ndubuisi
 
-🚀 Data Engineer | 🔧 Backend Developer | 🎓 Educator on YouTube
+🚀 Big Data Engineer | 🔧 Backend Developer | 🎓 Educator on YouTube
 
 I build scalable data pipelines using big data technologies like Apache Spark, Kafka, NiFi, Flink, and Delta Lake.  
 I’m passionate about designing real-time and batch data architectures, enabling low-latency analytics, and sharing what I learn through tutorials on YouTube.
