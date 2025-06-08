@@ -37,7 +37,6 @@ I publish walkthroughs and tutorials on Data Engineering:
   - Azure Blob Storage & Data Lake Gen2
   - Azure Synapse Analytics
 - Deploying data pipelines to cloud environments
-- Building warehouse-style analytics with Delta Lake + DBT
 
 ---
 
