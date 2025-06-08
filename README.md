@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wisdom Nwachukwu Ndubuisi
 
-🚀 Big Data Engineer | 🔧 Backend Developer | 🎓 Educator on YouTube
+🚀 Data Engineer | 🔧 Backend Developer | 🎓 Educator on YouTube
 
 I build scalable data pipelines using big data technologies like Apache Spark, Kafka, NiFi, Flink, and Delta Lake.  
 I’m passionate about designing real-time and batch data architectures, enabling low-latency analytics, and sharing what I learn through tutorials on YouTube.
@@ -9,7 +9,7 @@ I’m passionate about designing real-time and batch data architectures, enablin
 
 ## 🧰 My Toolset
 - **Programming Languages**: Python, SQL
-- **Cloud & Storage**: MinIO, AWS S3
+- **Cloud & Storage**: MinIO, AWS S3, Azure Blob Storage
 - **Batch Pipelines**: Apache NiFi, PySpark, Delta Lake
 - **Streaming Systems**: Apache Kafka, Apache Flink, Redis
 - **Analytics & BI**: DBT, PostgreSQL
@@ -20,8 +20,11 @@ I’m passionate about designing real-time and batch data architectures, enablin
 ---
 
 ## 📦 Projects
+<!--
 - [ETL Pipeline with NiFi, Spark & Delta Lake](#)
 - [Real-Time Kafka Stream Processing with Flink](#)
+-->
+Project details available on request; all repositories are hosted on my company’s GitLab due to NDA.
 
 ---
 
@@ -44,5 +47,5 @@ I publish walkthroughs and tutorials on Data Engineering:
 - 💼 [LinkedIn](https://linkedin.com/in/nwachukwu-wisdom)
 - 💻 [GitHub](https://github.com/crypticwisdom)
 - 📧 [Email: crypticwisdom84@gmail.com](mailto:crypticwisdom84@gmail.com)
-- 🟢 WhatsApp: +2348057784796
-- 📱 Phone: +2348168317307
+<!-- - 🟢 WhatsApp: +2348057784796 -->
+<!-- - 📱 Phone: +2348168317307 -->
