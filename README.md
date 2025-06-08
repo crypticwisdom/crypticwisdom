@@ -11,7 +11,7 @@ I’m passionate about designing real-time and batch data architectures, enablin
 - **Programming Languages**: Python, SQL
 - **Cloud & Storage**: MinIO, AWS S3, Azure Blob Storage
 - **Batch Pipelines**: Apache NiFi, PySpark, Delta Lake
-- **Streaming Systems**: Apache Kafka, Apache Flink, Redis
+- **Streaming Systems**: Apache Kafka, Apache Flink, Redis, Debezium
 - **Analytics & BI**: DBT, PostgreSQL
 - **DevOps & CI/CD**: Docker, Kubernetes, Rancher, Jenkins
 - **Workflow Orchestration**: Apache Airflow
