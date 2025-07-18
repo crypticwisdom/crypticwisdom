@@ -25,16 +25,16 @@ I specialize in building cost-efficient data architectures for both batch and st
 Note: All my production systems and source code are hosted in private GitLab repositories under NDA.  
 Feel free to reach out if you'd like to discuss specific use cases or pipelines I've implemented.
 
-### Telecom Campaign Workflow Engine
+### -> Telecom Campaign Workflow Engine
 Built a scalable backend engine using **Flask**, **Kafka**, and **Apache Flink** to execute dynamic marketing workflows. System supports real-time user segmentation and triggers millions of targeted messages based on behavioral data.
 
-### Spark Data Lake Pipeline
+### -> Spark Data Lake Pipeline
 Developed a batch data pipeline using **Apache NiFi**, **Apache Spark**, and **MinIO**, with **MongoDB** as the sink. Reduced daily ingestion time from manual 20-minute processes to a few seconds. Scaled across multiple telco clients.
 
-### Change Data Capture Platform
+### -> Change Data Capture Platform
 Implemented a CDC system capturing change logs from **MongoDB**, **Oracle**, and **PostgreSQL**, streaming to **Kafka**, and processing in **Flink** for real-time event-based processing and business rule execution.
 
-### SFTP Ingestion & Data Preparation Pipeline
+### -> SFTP Ingestion & Data Preparation Pipeline
 Built a data ingestion workflow with **NiFi** and **Spark Structured Streaming** that pulls CSV files from **SFTP**, transforms and cleans data using custom business logic, and stores the output in **MongoDB** for downstream analytics and segmentation.
 
 ---
