@@ -39,6 +39,15 @@ Built a data ingestion workflow with **NiFi** and **Spark Structured Streaming**
 
 ---
 
+## 🏆 Recognition & Awards
+
+- **Award of Excellence in Data Engineering**  
+  Recognized by **Zain South Sudan & Mauritius** for deploying and scaling a production-grade data pipeline.  
+  <img src="assets/zain-ss-and-mauritius-award.png" alt="Data Engineering Award" width="400"/>  
+  [📄 View Full Award Certificate (PDF)](awards/zain-ss-and-mauritius-award.pdf)
+
+---
+
 ## 🎥 YouTube — @DataWithWisdom
 
 I create tutorials on building real-world data pipelines with Python, Spark, Kafka, Flink, and NiFi.  
