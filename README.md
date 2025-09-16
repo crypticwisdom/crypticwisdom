@@ -42,7 +42,7 @@ Built a data ingestion workflow with **NiFi** and **Spark Structured Streaming**
 ## 🏆 Recognition & Awards
 
 - **Award of Excellence in Data Engineering**  
-  Recognized by **Zain South Sudan & Mauritius** for deploying and scaling a production-grade data pipeline.  
+  Honored by **Tecnotree Corporation** for my contribution in deploying and scaling a production-grade data engineering pipeline for **Zain South Sudan & Mauritius**.  
   <img src="assets/zain-ss-and-mauritius-award.png" alt="Data Engineering Award" width="400"/>  
   [📄 View Full Award Certificate (PDF)](https://drive.google.com/file/d/15Jd18h3uR3Dss_FDG7jGTyjLoKgnQ3lT/view?usp=drive_link)
 
