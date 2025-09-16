@@ -68,8 +68,6 @@ I create tutorials on building real-world data pipelines with Python, Spark, Kaf
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/nwachukwu-wisdom)  
-- 💻 [GitHub](https://github.com/crypticwisdom)  
 - 📧 [Email](mailto:crypticwisdom84@gmail.com)
-
-<!-- - 🟢 WhatsApp: +2348057784796 -->
+- 🟢 WhatsApp: +2348057784796
 <!-- - 📱 Phone: +2348168317307 -->
