@@ -69,5 +69,5 @@ I create tutorials on building real-world data pipelines with Python, Spark, Kaf
 
 - 💼 [LinkedIn](https://linkedin.com/in/nwachukwu-wisdom)  
 - 📧 [Email](mailto:crypticwisdom84@gmail.com)
-- 🟢 WhatsApp: +2348057784796
+- 🟢 WhatsApp: +2348168317307
 <!-- - 📱 Phone: +2348168317307 -->
