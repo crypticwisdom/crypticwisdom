@@ -50,7 +50,7 @@ Built a data ingestion workflow with **NiFi** and **Spark Structured Streaming**
   Recognized under the CVM (Customer Value Management) Business Impact category for contributing to data-driven initiatives that supported measurable business outcomes.
   The award acknowledges impactful work in building and optimizing data systems that enabled commercial decision-making and operational efficiency.
 
-  <img src="awards/cvm-business-impact.png" alt="Data Engineering Award" width="250" height="300"/>  
+  <img src="assets/cvm-business-impact.jpeg" alt="Data Engineering Award" width="250" height="300"/>  
   [📄 View Full Award Certificate (PDF)](https://drive.google.com/file/d/1AQyZPH79HjLAbOaOR0l7zI78H_NZVwAl/view?usp=drive_link)
 
 ---
