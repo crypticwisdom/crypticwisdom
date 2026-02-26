@@ -9,14 +9,13 @@ I specialize in building cost-efficient data architectures for both batch and st
 
 ## 🧰 Toolset
 
-**Languages:** Python, SQL  
-**Big Data & Processing:** Apache Spark, Apache Flink, Apache Kafka, Apache NiFi, Apache Airflow, Delta Lake, PySpark, Dask, PyFlink  
-**Cloud & Storage:** Azure, AWS (S3, EC2), Azure Blob Storage, MinIO  
-**Databases & Caching:** PostgreSQL, MongoDB, Redis  
-**Frameworks & APIs:** Flask, Django, REST APIs  
-**DevOps & CI/CD:** Docker, Kubernetes, Jenkins, Git, Helm, Shell Scripting, Rancher  
+**Big Data & Streaming:** Apache Spark, Databricks, Apache Flink, Apache Kafka, Apache NiFi, Airflow, Delta Lake, Debezium (CDC)
+**Languages:** Python (PySpark, PyFlink, Pandas), SQL (PostgreSQL, MS SQL), Shell Scripting
+**Databases & Storage:** MinIO, MongoDB, Redis, PostgreSQL, Oracle, OneLake
+**Backend Development:** FastAPI, Flask, Django (API Development)
+**Cloud & DevOps:** Databricks, AWS, Microsoft Fabric, Kubernetes, Docker, Helm, Jenkins, Git
 **Data Formats:** Parquet, Avro, JSON, CSV  
-**Other Tools:** dbt, Debezium, Apache Airflow, Data Modeling
+**Other Tools:** DBT
 
 ---
 
@@ -58,6 +57,7 @@ Built a data ingestion workflow with **NiFi** and **Spark Structured Streaming**
 I create tutorials on building real-world data pipelines with Python, Spark, Kafka, Flink, and NiFi.  
 🎬 [youtube.com/@DataWithWisdom](https://www.youtube.com/@DataWithWisdom)
 
+<!--
 ---
 
 ## 🔭 Currently Exploring
@@ -67,7 +67,7 @@ I create tutorials on building real-world data pipelines with Python, Spark, Kaf
   - Azure Synapse Analytics
   - Data Lake Gen2
 - Efficient deployment of streaming systems on Kubernetes
-
+-->
 ---
 
 ## 🔗 Connect With Me
