@@ -43,14 +43,14 @@ Built a data ingestion workflow with **NiFi** and **Spark Structured Streaming**
 
 - **Award of Excellence in Data Engineering**  
   Honored by **Tecnotree Corporation** for solely building and scaling the **data engineering pipeline** within a major production deployment for **Zain South Sudan & Mauritius**.  
-  <img src="assets/zain-ss-and-mauritius-award.png" alt="Data Engineering Award" width="250" height="300"/>  
+  <img src="assets/zain-ss-and-mauritius-award.png" alt="Data Engineering Award" width="250" height="300"/>
   [📄 View Full Award Certificate (PDF)](https://drive.google.com/file/d/15Jd18h3uR3Dss_FDG7jGTyjLoKgnQ3lT/view?usp=drive_link)
 
 - **CVM Business Impact and Recognitions**  
   Recognized under the CVM (Customer Value Management) Business Impact category for contributing to data-driven initiatives that supported measurable business outcomes.
   The award acknowledges impactful work in building and optimizing data systems that enabled commercial decision-making and operational efficiency.
 
-  <img src="assets/cvm-business-impact.jpeg" alt="Data Engineering Award" width="250" height="300"/>  
+  <img src="assets/cvm-business-impact.jpeg" alt="Data Engineering Award" width="250" height="300"/>
   [📄 View Full Award Certificate (PDF)](https://drive.google.com/file/d/1AQyZPH79HjLAbOaOR0l7zI78H_NZVwAl/view?usp=drive_link)
 
 ---
