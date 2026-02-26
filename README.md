@@ -47,7 +47,7 @@ Built a data ingestion workflow with **NiFi** and **Spark Structured Streaming**
   [📄 View Full Award Certificate (PDF)](https://drive.google.com/file/d/15Jd18h3uR3Dss_FDG7jGTyjLoKgnQ3lT/view?usp=drive_link)
 
 
-  <img src="assets/zain-ss-and-mauritius-award.png" alt="Data Engineering Award" width="250" height="300"/>  
+  <img src="assets/zain-ss-and-mauritius-award.pdf" alt="Data Engineering Award" width="250" height="300"/>  
   [📄 View Full Award Certificate (PDF)](www.google.com)
 
 ---
