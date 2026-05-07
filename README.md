@@ -3,8 +3,7 @@
 Senior Data Engineer | Kafka · Flink · Spark · Databricks | Real-Time Streaming & Lakehouse Architecture | Open to Remote Roles
 
 I design and build scalable data platforms using technologies like Apache Spark, Kafka, NiFi, Flink, and Delta Lake.  
-I specialize in building cost-efficient data architectures for both batch and streaming use cases, and I share real-world systems through educational content on YouTube.
-
+I specialize in building cost-efficient data architectures for both batch and streaming use cases, with a focus on low-latency, high-throughput systems.
 ---
 
 ## 🧰 Toolset
