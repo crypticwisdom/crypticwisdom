@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wisdom Nwachukwu Ndubuisi
 
-🚀 Data Engineer | 🔧 Backend Developer | 🎓 Educator on YouTube
+Senior Data Engineer | Kafka · Flink · Spark · Databricks | Real-Time Streaming & Lakehouse Architecture | Open to Remote Roles
 
 I design and build scalable data platforms using technologies like Apache Spark, Kafka, NiFi, Flink, and Delta Lake.  
 I specialize in building cost-efficient data architectures for both batch and streaming use cases, and I share real-world systems through educational content on YouTube.
